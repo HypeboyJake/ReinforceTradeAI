@@ -1,6 +1,7 @@
 # Easy-to-Use ReinforceTradeAI
 
 Hello!
+
 안녕하세요!
 
 I have implemented trading using reinforcement learning.
@@ -13,6 +14,7 @@ csv파일만 있으면 사용가능합니다.
 
 Please adhere to the CSV file format.
 0th is time, 3rd is closing price, the number of features doesn't matter!
+
 csv파일형식을 지켜주셔야합니다
 0번은 시간, 3번은 종가 피쳐수는 상관없습니다!
 
@@ -47,7 +49,7 @@ If it's within your capability, try modifying the reward function in the env fil
 ![ex crypto](ex_crypto_img.png)
 ![ex stock](ex_stock_img.png)
 
-#**<Caution>
+**<Caution>
 This project is an open-source sharing of a personally developed project,
 and all responsibilities for arising issues lie with the individual.**
 
