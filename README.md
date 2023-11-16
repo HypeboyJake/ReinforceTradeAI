@@ -6,6 +6,7 @@ Hello!
 I have implemented trading using reinforcement learning.
 I made it as simple as possible to use.
 It can be used with just a CSV file.
+
 강화학습을 이용한 트레이딩을 구현해보았습니다.
 최대한 사용방법이 간단하게 만들었습니다.
 csv파일만 있으면 사용가능합니다.
