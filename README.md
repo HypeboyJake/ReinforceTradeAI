@@ -43,13 +43,12 @@ If it's within your capability, try modifying the reward function in the env fil
 7. 사용하고자하는 목적의 main파일을 열고 각주에맞게 설정해주세요!
    그리고 실행하면 완료입니다.
 
-ex_img)
-(ex_crypto_img.png)
-(ex_stock_img.png)
+![ex crypto](ex_crypto_img.png)
+![ex stock](ex_stock_img.png)
 
 #**<Caution>**
-#**This project is an open-source sharing of a personally developed project,
-#and all responsibilities for arising issues lie with the individual.**
+#**This project is an open-source sharing of a personally developed project,**
+#**and all responsibilities for arising issues lie with the individual.**
 #**<주의>**
-#**본 프로젝트는 개인적으로 개발한 프로젝트를 오픈소스로 공유한 것으로
-#발생하는 문제에 대한 모든 책임은 본인에게 있습니다.**
+#**본 프로젝트는 개인적으로 개발한 프로젝트를 오픈소스로 공유한 것으로**
+#**발생하는 문제에 대한 모든 책임은 본인에게 있습니다.**
