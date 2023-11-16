@@ -47,10 +47,10 @@ If it's within your capability, try modifying the reward function in the env fil
 ![ex crypto](ex_crypto_img.png)
 ![ex stock](ex_stock_img.png)
 
-##**<Caution>
-###This project is an open-source sharing of a personally developed project,
-###and all responsibilities for arising issues lie with the individual.**
+#**<Caution>
+This project is an open-source sharing of a personally developed project,
+and all responsibilities for arising issues lie with the individual.**
 
-##**<주의>
-###본 프로젝트는 개인적으로 개발한 프로젝트를 오픈소스로 공유한 것으로
-###발생하는 문제에 대한 모든 책임은 본인에게 있습니다.**
+**<주의>
+본 프로젝트는 개인적으로 개발한 프로젝트를 오픈소스로 공유한 것으로
+발생하는 문제에 대한 모든 책임은 본인에게 있습니다.**
