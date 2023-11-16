@@ -1,5 +1,7 @@
 # Easy-to-Use ReinforceTradeAI
 
+Please make sure to read until the end of the readme!!!
+
 Hello!
 
 안녕하세요!
