@@ -6,15 +6,18 @@ Hello!
 
 안녕하세요!
 
+
 I have implemented trading using reinforcement learning.
 I made it as simple as possible to use.
 
 It can be used with just a CSV file.
 
 강화학습을 이용한 트레이딩을 구현해보았습니다.
+
 최대한 사용방법이 간단하게 만들었습니다.
 
 csv파일만 있으면 사용가능합니다.
+
 
 Please adhere to the CSV file format.
 0th is time, 3rd is closing price, the number of features doesn't matter!
@@ -22,6 +25,7 @@ Please adhere to the CSV file format.
 csv파일형식을 지켜주셔야합니다
 
 0번은 시간, 3번은 종가 피쳐수는 상관없습니다!
+
 
 1. There are two main files and env files.
     If the first letter is 's', it's for stocks, and 'c' for crypto.
@@ -50,6 +54,7 @@ If it's within your capability, try modifying the reward function in the env fil
    
 4. 사용하고자하는 목적의 main파일을 열고 각주에맞게 설정해주세요!
    그리고 실행하면 완료입니다.
+
 
 APPLE
 ![ex stock](ex_stock_img.png)
